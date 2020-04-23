@@ -4,7 +4,7 @@ This is a repository for the KAWPOW hashing algorithm that is used by Ravencoin 
 validator and should not be relied upon to validate hashes from miners. It is to be used for local test validation and things
 like that.
 
-For nodejs, you should be able to do ``npm install https://github.com/traysi/kawpow-light-verifier/``
+For nodejs, you should be able to do ``npm install https://github.com/blondfrogs/kawpow-light-verifier/``
 
 ** INSTALLATION INSTRUCTIONS
 

@@ -1,7 +1,5 @@
 # kawpow-light-verifier
 
-NOT YET FUNCTIONAL - DO NOT USE
-
 This is a repository for the KAWPOW hashing algorithm that is used by Ravencoin beginning April 2020. It is not a full KAWPOW
 validator and should not be relied upon to validate hashes from miners. It is to be used for local test validation and things
 like that.
@@ -16,7 +14,7 @@ $ npm install -g node-gyp
 
 After that, you can build this module by:
 
-$ git clone https://github.com/traysi/kawpow-light-verifier
+$ git clone https://github.com/blondfrogs/kawpow-light-verifier
 
 $ cd kawpow-light-verifier
 
